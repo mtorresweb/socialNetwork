@@ -3,8 +3,6 @@ Social Network API built using the Express framework and MongoDB.
 
 ## Overview
 
-------------
-
 This project is a robust Social Network API built using the Express framework and MongoDB for data storage. Leveraging the power of various libraries, including Multer for image hosting, Express-Validator for input validation, and Helmet for enhanced security.
 
 ### Key Features:
