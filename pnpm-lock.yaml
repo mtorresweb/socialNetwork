@@ -38,9 +38,6 @@ dependencies:
   multer:
     specifier: 1.4.5-lts.1
     version: 1.4.5-lts.1
-  validator:
-    specifier: ^13.11.0
-    version: 13.11.0
 
 devDependencies:
   dotenv:
